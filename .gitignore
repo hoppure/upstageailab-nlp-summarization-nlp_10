@@ -2,4 +2,11 @@
 /output_dir
 /wandb
 config.yaml
-
+/code/prediction
+/code/wandb
+/code/unsloth_compiled_cache
+/code/output*.csv
+/prdiction
+/code/outout*.csv
+/code/original_basecode/wandb/
+/code/original_basecode/checkpoint*
